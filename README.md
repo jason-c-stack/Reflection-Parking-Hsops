@@ -2,7 +2,6 @@
 
 Research code for k-noncrossing parking functions and equivariant homogeneous polynomial maps for finite complex reflection groups. The code was consolidated from GAP3/CHEVIE scripts and Mathematica notebooks. Shared algorithms are implemented once, with separate group data, examples, and regression checks.
 
-## Start here
 
 | Area | Contents | Instructions |
 | --- | --- | --- |
