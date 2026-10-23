@@ -18,3 +18,10 @@ Noncrossing parking objects are built out of noncrossing partitions using cosets
 
 The algebraic parking space is built out of certain homogeneous systems of parameters (hsops) for the group. We use the code here to check the existence of these hsops, and build explicit hsops. For HSOP work, equivariance produces a space of candidate polynomial maps. A candidate is certified as an HSOP only after its nonzero common zeros have been excluded; equivariance alone is insufficient. Experimental formulas and incomplete searches are labeled in the language guides.
 
+## Related papers
+
+The following papers provide mathematical context for the computations in this repository:
+
+- Jason Stack, [*Parking Spaces for Complex Reflection Groups*](https://arxiv.org/abs/2502.01970), arXiv:2502.01970 (2025). Studies noncrossing and algebraic parking spaces for complex reflection groups and their Fuss analogues. Related to the parking-function enumeration and character computations in `gap3/`.
+
+- Jason Stack and Nathan Williams, [*Posh Parking Spaces*](https://arxiv.org/abs/2610.07280), arXiv:2610.07280 (2026). Studies faithful equivariant HSOPs, their possible degrees and Galois twists, and the associated quotient representations. Related to the polynomial-map construction and HSOP verification in `wolfram/`.
