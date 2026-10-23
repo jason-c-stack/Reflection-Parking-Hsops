@@ -1,6 +1,6 @@
 # Tests and verified examples
 
-Last runtime verification: 2026-10-20. Documentation was simplified on 2026-10-23; executable code and tests were unchanged.
+Last runtime verification: 2026-10-20. 
 
 Run commands below from the package directory, the folder containing `gap3` and `wolfram`. The two test suites are independent.
 
